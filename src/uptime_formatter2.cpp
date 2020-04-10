@@ -1,6 +1,6 @@
 ﻿/* ***********************************************************************
  * Uptime library for Arduino boards and compatible systems
- * (C) 2020 by Harald ten Hoopens (https://github.com/haraldtux)
+ * (C) 2020 by Harald ten Hoopen (https://github.com/haraldtux)
  *
  * This file is part of Uptime library for Arduino boards and compatible systems
  *
