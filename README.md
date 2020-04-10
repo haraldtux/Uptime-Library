@@ -4,6 +4,7 @@ special thanks to Yiannis Bourkelis https://github.com/YiannisBourkelis/Uptime-L
 # Uptime Library
 
 With the uptime library for Arduino boards and compatible systems you can read the time passed since device startup, without the 49 days overflow limitation of the millis() function.
+
 Adjusted the library to fit an Oled (Example 2)
 
 # Usage
@@ -45,7 +46,7 @@ up 0 days, 0 hours, 1 minutes, 8 seconds
 up 0 days, 0 hours, 1 minutes, 9 seconds
 ```
 
-#### Example 2: [Device Uptime](https://github.com/YiannisBourkelis/Uptime-Library/tree/master/examples/DeviceUptime2 "Device Uptime")
+#### Example 2: [Device Uptime 2](https://github.com/YiannisBourkelis/Uptime-Library/tree/master/examples/DeviceUptime2 "Device Uptime")
 ```cpp
 #include "uptime_formatter2.h"
 
